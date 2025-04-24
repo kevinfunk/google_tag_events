@@ -5,6 +5,6 @@ tracking:
   dependencies:
     - core/jquery
     - core/drupal
-    - core/js-cookie
     - core/drupalSettings
     - core/once
+    - js_cookie/js-cookie
